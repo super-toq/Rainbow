@@ -11,7 +11,7 @@ Rainbow is a small utility based on the DBus functionalities of ["Basti's OLED S
 
   
 > [!Warning]
->** HEALTH WARNING:**
+>**HEALTH WARNING:**  
 >Rapid colour changes can cause headaches, dizziness, or light sensitivity in susceptible individuals.  
 >Do not look at the flashing image — it may trigger migraine or epilepsy in sensitive users.  
 >Look away and turn off the tool immediately if any discomfort occurs.  
@@ -19,7 +19,7 @@ Rainbow is a small utility based on the DBus functionalities of ["Basti's OLED S
   
 
 > [!Important]
->**USER LIABILITY:**
+>**USER LIABILITY:**  
 >I do not recommend using this software. However, by downloading, compiling this software code, and using this >software ("Rainbow"), you expressly acknowledge and agree that:
 >  
 >  * Self-Responsible Use – You use the software solely at your own risk. The developer assumes no responsibility for damages that may occur to LCD, OLED, or other types of displays, including but not limited to:
